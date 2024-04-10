@@ -2,21 +2,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Julia Chahine",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "BA, Mathematics, Colby College 2021 MS, Applied Mathematics, University of Michigan 2023"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
+    "title": "Julia Chahine",
+    "section": "",
+    "text": "BA, Mathematics, Colby College 2021 MS, Applied Mathematics, University of Michigan 2023"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Julia Chahine",
     "section": "Experience",
     "text": "Experience\nWhat I’ve done"
   },
@@ -32,7 +32,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
@@ -44,8 +44,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Julia Chahine",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "Economics PhD Student, Brown University\nNSF Graduate Research Fellow"
   }
 ]

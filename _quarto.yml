@@ -10,7 +10,7 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: cv.pdf
+      - href: Julia_Chahine_Resume__NO_GPA___May_2023_Update.pdf
         text: CV
 
 format:
